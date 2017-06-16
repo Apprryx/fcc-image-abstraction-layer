@@ -22,6 +22,8 @@ npm start
 SECRET=generate-your-secret
 PORT=8080
 APP_URL=http://localhost:8080/
+DB_URI=url-to-mongodb
+accKey=bing-api-key
 ```
 ## License
 
